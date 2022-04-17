@@ -1,1 +1,1 @@
-# Multipole decomposition and Resonance contribution from SIE program
+# multipole decomposition and resonance contribution from SIE program
